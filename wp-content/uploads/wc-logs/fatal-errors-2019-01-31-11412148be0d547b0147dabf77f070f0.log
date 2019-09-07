@@ -1,0 +1,8 @@
+2019-01-31T17:10:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\JPJ_Distribution\wp-admin\includes\class-wp-filesystem-direct.php on line 76
+
+2019-01-31T17:11:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\JPJ_Distribution\wp-admin\includes\class-wp-filesystem-direct.php on line 76
+
+2019-01-31T17:17:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\JPJ_Distribution\wp-admin\includes\class-wp-filesystem-direct.php on line 76
+
+2019-01-31T17:19:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\JPJ_Distribution\wp-includes\Requests\Transport\cURL.php on line 441
+
